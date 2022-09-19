@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.8">
+	<title>Audio</title>
+</head>
+
+<body>
+	<figure>
+		<figcaption>
+			Dengarkan "Dragon City - Social Point"
+		</figcaption>
+		<audio controls autoplay loop>
+			<source src="audio/dc.mp3" type="audio/mpeg">
+			browser tidak mendukung tag <code>audio</code>
+		</audio>
+	</figure>
+</body>
+</html>
